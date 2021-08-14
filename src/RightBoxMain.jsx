@@ -11,7 +11,7 @@ const RightBoxMain = () => {
     return (
         <div className="RightBox">
             <Switch>
-                <Route exact path="/" component={Home} />
+                <Route exact path="/NowTvReact/" component={Home} />
                 <Route exact path="/Home" component={Home} />
                 <Route exact path="/opt1" component={Opt1} />
                 <Route exact path="/opt2" component={Opt2} />
