@@ -6,7 +6,7 @@ const Header = () => {
             <div className="header" id="header">
                 <div className="logoDiv" >
                     <strong>
-                        <a href="/">
+                        <a href="/NowTvReact/">
                             <h1>Now TV</h1>
                         </a>
                     </strong>
